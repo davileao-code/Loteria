@@ -2,10 +2,10 @@
 
 Projeto de estudo em Python que simula uma loteria simples.
 
-## Funcionalidades
-- Geração de números aleatórios
-- Leitura e gravação de dados em JSON
-- Organização em models e storage
+## O que o programa faz
+- Gera números aleatórios para jogos de loteria
+- Salva os dados em arquivos JSON
+- Organiza o código em módulos
 
 ## Tecnologias
 - Python 3
